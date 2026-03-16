@@ -1,4 +1,4 @@
-# $DARWIN — AI Darwin Experiment
+# $DARWINAI — AI Darwin Experiment
 
 **只有最强的AI代理才能生存**
 
